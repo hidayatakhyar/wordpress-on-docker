@@ -21,8 +21,8 @@ docker-compose build
 
 #Run environment
 docker-compose up -d
+
+#delete the environment with the following command.
+docker-compose down -v
 ```
-After the test, delete the environment with the following command.
-`
-docker-compose down -v`
 
