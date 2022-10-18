@@ -12,6 +12,8 @@ WordPress Multisite works only on ports 80 and 443
 ```
 #Download project
 wget https://github.com/hidayatakhyar/wordpress-on-docker.git
+
+#open file
 cd wordpress-on-docker
 
 #Compile environment
@@ -21,5 +23,6 @@ docker-compose build
 docker-compose up -d
 ```
 After the test, delete the environment with the following command.
-`docker-compose down -v`
+`
+docker-compose down -v`
 
