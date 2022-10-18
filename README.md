@@ -5,8 +5,8 @@ Docker is an open platform for developing, shipping, and running applications. T
 
 Please make sure you already install Docker on your local machine before try this module. If you still not have installed it, you can check how to install Docker [here](https://docs.docker.com/engine/install/).
 
-**Notes : **
-WordPress Multisite works only on ports 80 and 443
+**Notes**
+: WordPress Multisite works only on ports 80 and 443
 
 ## Usage
 ```
