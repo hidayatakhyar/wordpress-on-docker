@@ -1,4 +1,4 @@
-# testing
+# Wordpress On Docker
 Docker is an open platform for developing, shipping, and running applications.
 
 This is only a simple case to install wordpress on Docker container.
