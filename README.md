@@ -1,4 +1,4 @@
-![](https://imgs.search.brave.com/WRQQo7EJyPOUNEoXdM4CUNTp-cofeiZvoHIGKAv6oag/rs:fit:924:636:1/g:ce/aHR0cHM6Ly9kd2ds/b2dvLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxNy8wOS8x/MzAwcHgtRG9ja2Vy/X2NvbnRhaW5lcl9l/bmdpbmVfbG9nby5w/bmc)
+![](https://www.dropbox.com/s/uq31zckwhb9j6mx/Moby-logo_50.webp?dl=0)
 
 ## Wordpress on Docker
 Docker is an open platform for developing, shipping, and running applications. This is only a simple case to install wordpress on docker with docker-compose.
