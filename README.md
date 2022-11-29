@@ -1,4 +1,6 @@
-![](https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png)
+<p align="center">
+  <img width="350px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png"/>
+</p>
 
 ## Wordpress on Docker
 WordPress is the simplest, most popular way to create your own website or blog. Wordpress is a free, open-source website creation platform. On a more technical level, WordPress is a content management system (CMS) written in PHP that uses a MySQL database.
